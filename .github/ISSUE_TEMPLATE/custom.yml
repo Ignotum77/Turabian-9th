@@ -1,0 +1,9 @@
+name: Questions
+description: To use when you have questions
+labels: [question]
+body:
+- type: textarea
+  attributes:
+    label: Your Question(s)
+  validations:
+    required: true
