@@ -5,14 +5,23 @@ This is the Notes-Bibliography style of Turabian for making citations in the Dut
 You have currently five options:
  - [`Turabian 9th edition (full note)`](https://raw.githubusercontent.com/Ignotum77/Turabian-9th/main/turabian-9th-edition-fullnote.csl)
  - [`Turabian 9th Edition (full note) [Dutch]`](https://raw.githubusercontent.com/Ignotum77/Turabian-9th/main/turabian-9th-edition-fullnote-dutch.csl)
- - [`Turabian 9th edition (full note, with Ibid.)`](https://raw.githubusercontent.com/Ignotum77/Turabian-9th/main/turabian-9th-edition-fullnote-idib.csl)
+ - [`Turabian 9th edition (full note, with Ibid.)`](https://raw.githubusercontent.com/Ignotum77/Turabian-9th/main/turabian-9th-edition-fullnote-ibid.csl)
  - [`Turabian 9th edition (full note, short title subsequent)`](https://raw.githubusercontent.com/Ignotum77/Turabian-9th/main/turabian-9th-edition-fullnote-short-title-subsequent.csl)
  - [`Turabian 9th Edition (full note, short title subsequent) [Dutch]`](https://raw.githubusercontent.com/Ignotum77/Turabian-9th/main/turabian-9th-edition-fullnote-short-title-subsequent-dutch.csl)
 </p>
 If I did something wrong, let me know by opening a issue.
 
-## Installation Style
-To install the citation style, just open it with Zotero or Juris-M.
 
-## Template
-To use the Turabian style in Microsoft Word use to `Turabian Template.dotx`
+## Installation Instructions
+
+### Zotero and Juris-M
+1. Download the desired `.csl` file from the repository
+2. Open Zotero
+3. Edit → Preferences → Cite → Citation Styles
+4. Click the "+" button and select the downloaded file
+5. Restart Zotero
+
+### Microsoft Word Template
+1. Download `Turabian Template.dotx`
+2. Open in Microsoft Word
+3. Set as your default template
