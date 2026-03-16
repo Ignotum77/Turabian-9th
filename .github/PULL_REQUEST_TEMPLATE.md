@@ -1,6 +1,5 @@
-# Pull Request
-
 ## Description
+
 Please include a summary of the changes and why they are needed.
 
 ---
@@ -47,4 +46,3 @@ NEW:
 - [ ] My code follows the style guidelines
 - [ ] I have performed a self-review
 - [ ] Changes generate no new warnings
-- [ ] I have updated the CHANGELOG (if applicable)
