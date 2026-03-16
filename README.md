@@ -6,6 +6,7 @@ You have currently five options:
  - [`Turabian 9th edition (full note)`](https://raw.githubusercontent.com/Ignotum77/Turabian-9th/main/csl/turabian-9th-edition-fullnote.csl)
  - [`Turabian 9th Edition (full note) [Dutch]`](https://raw.githubusercontent.com/Ignotum77/Turabian-9th/main/csl/turabian-9th-edition-fullnote-dutch.csl)
  - [`Turabian 9th edition (full note, with Ibid.)`](https://raw.githubusercontent.com/Ignotum77/Turabian-9th/main/csl/turabian-9th-edition-fullnote-ibid.csl)
+ - [`Turabian 9th edition (full note, with Ibid.) [Dutch]`](https://raw.githubusercontent.com/Ignotum77/Turabian-9th/main/csl/turabian-9th-edition-fullnote-ibid-dutch.csl)
  - [`Turabian 9th edition (full note, short title subsequent)`](https://raw.githubusercontent.com/Ignotum77/Turabian-9th/main/csl/turabian-9th-edition-fullnote-short-title-subsequent.csl)
  - [`Turabian 9th Edition (full note, short title subsequent) [Dutch]`](https://raw.githubusercontent.com/Ignotum77/Turabian-9th/main/csl/turabian-9th-edition-fullnote-short-title-subsequent-dutch.csl)
 </p>
