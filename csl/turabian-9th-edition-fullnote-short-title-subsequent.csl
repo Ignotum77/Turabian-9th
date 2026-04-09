@@ -9,16 +9,21 @@
     <category citation-format="note"/>
     <category field="generic-base"/>
     <summary>Turabian 9th format with full notes and bibliography</summary>
-    <updated>2022-10-05T12:10:00+00:00</updated>
+    <updated>2026-04-09T22:30:00+00:00</updated>
     <rights license="https://mit-license.org/license.txt">This work is licensed under a MIT License</rights>
   </info>
   <locale xml:lang="en">
     <terms>
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
-      <term name="editor" form="short" plural="true">eds.</term>
-      <term name="editor" form="verb-short">ed.</term>
-      <term name="editor" form="short">ed.</term>
+      <term name="editor" form="verb-short">
+        <single>ed.</single>
+        <multiple>eds.</multiple>
+      </term>
+      <term name="editor" form="short">
+        <single>ed.</single>
+        <multiple>eds.</multiple>
+      </term>
       <term name="translator" form="verb-short">trans.</term>
       <term name="translator" form="short">trans.</term>
       <term name="editortranslator" form="verb">Edited and translated by</term>
@@ -26,7 +31,7 @@
       <term name="container-author" form="verb-short"></term>
       <term name="part" form="short">pt.</term>
       <term name="chapter" form="short">chap.</term>
-      <term name="paragraph" form="short" plural="false">par.</term>
+      <term name="paragraph" form="short">par.</term>
     </terms>
   </locale>
   <macro name="editor-translator">
