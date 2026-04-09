@@ -17,10 +17,7 @@
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
       <term name="editor" form="verb">Onder redactie van</term>
-      <term name="editor" form="verb-short">
-        <single>red.</single>
-        <multiple>reds.</multiple>
-      </term>
+      <term name="editor" form="verb-short">red.</term>
       <term name="editor" form="short">
         <single>red.</single>
         <multiple>reds.</multiple>
