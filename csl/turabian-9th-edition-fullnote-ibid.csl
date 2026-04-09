@@ -31,7 +31,7 @@
       <term name="container-author" form="verb-short"></term>
       <term name="part" form="short">pt.</term>
       <term name="chapter" form="short">chap.</term>
-      <term name="paragraph" form="short" plural="false">par.</term>
+      <term name="paragraph" form="short">par.</term>
     </terms>
   </locale>
   <macro name="editor-translator">
