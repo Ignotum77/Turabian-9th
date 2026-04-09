@@ -12,6 +12,12 @@ You have currently five options:
 </p>
 If I did something wrong, let me know by opening a issue.
 
+## User Instructions
+
+For some citation you need to added it manually when not singular:
+1. (Dutch) Issue numbers --> nr. -> nrs.
+2. (English) Paragraph --> par. -> pars.
+3. Sub verbo --> s.v. -> s.vv. (also don't forget the quotes: "word1", "word2")
 
 ## Installation Instructions
 
