@@ -9,7 +9,7 @@
     <category citation-format="note"/>
     <category field="generic-base"/>
     <summary>Turabian 9th format with full notes and bibliography</summary>
-    <updated>2022-10-05T12:10:00+00:00</updated>
+    <updated>2026-04-09T22:25:00+00:00</updated>
     <rights license="https://mit-license.org/license.txt">This work is licensed under a MIT License</rights>
   </info>
   <locale xml:lang="en">
@@ -17,9 +17,14 @@
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
       <term name="editor" form="verb">Onder redactie van</term>
-      <term name="editor" form="short" plural="true">reds.</term>
-      <term name="editor" form="verb-short">red.</term>
-      <term name="editor" form="short">red.</term>
+      <term name="editor" form="verb-short">
+        <single>red.</single>
+        <multiple>reds.</multiple>
+      </term>
+      <term name="editor" form="short">
+        <single>red.</single>
+        <multiple>reds.</multiple>
+      </term>      
       <term name="translator" form="verb">Vertaald door</term>
       <term name="translator" form="verb-short">vert.</term>
       <term name="translator" form="short">vert.</term>
@@ -27,7 +32,7 @@
       <term name="editortranslator" form="verb-short">red. en vert.</term>
       <term name="container-author" form="verb-short"></term>
       <term name="edition" form="short">dr.</term>
-      <term name="issue" form="short" plural="false">nr.</term>
+      <term name="issue" form="short">nr.</term>
       <term name="part" form="short">dl.</term>
       <term name="chapter" form="short">hfdst.</term>
       <term name="paragraph" form="short">par.</term>
@@ -35,7 +40,8 @@
       <term name="figure" form="short">fig.</term>
       <term name="line" form="short">r.</term>
       <term name="book" form="short">bk.</term>
-      <term name="and" form="">en</term>
+      <term name="sub-verbo" form="short">s.v.</term>
+      <term name="and">en</term>
       <term name="at">op</term>
       <term name="et-al">e.a.</term>
       <term name="accessed">geraadpleegd</term>
