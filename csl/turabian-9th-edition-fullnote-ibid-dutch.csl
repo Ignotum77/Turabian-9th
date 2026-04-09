@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" page-range-format="chicago" default-locale="en-US">
   <info>
-    <title>Turabian 9th edition (full note, with Ibid.)</title>
-    <id>http://www.zotero.org/styles/turabian-9th-edition-fullnote-with-ibid</id>
+    <title>Turabian 9th edition (full note, with Ibid.) [Dutch]</title>
+    <id>http://www.zotero.org/styles/turabian-9th-edition-fullnote-with-ibid-dutch</id>
     <link href="http://www.zotero.org/styles/turabian-9th-edition-full-note" rel="self"/>
     <link href="http://www.chicagomanualofstyle.org/tools_citationguide.html" rel="documentation"/>
     <link href="https://editor.citationstyles.org/codeEditor/"/>
@@ -17,10 +17,7 @@
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
       <term name="editor" form="verb">Onder redactie van</term>
-      <term name="editor" form="verb-short">
-        <single>red.</single>
-        <multiple>reds.</multiple>
-      </term>
+      <term name="editor" form="verb-short">red.</term>
       <term name="editor" form="short">
         <single>red.</single>
         <multiple>reds.</multiple>
