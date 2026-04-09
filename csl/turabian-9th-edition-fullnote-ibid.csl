@@ -16,10 +16,7 @@
     <terms>
       <term name="open-inner-quote">‘</term>
       <term name="close-inner-quote">’</term>
-      <term name="editor" form="verb-short">
-        <single>ed.</single>
-        <multiple>eds.</multiple>
-      </term>
+      <term name="editor" form="verb-short">ed.</term>
       <term name="editor" form="short">
         <single>ed.</single>
         <multiple>eds.</multiple>
